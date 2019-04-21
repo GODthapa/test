@@ -48,6 +48,7 @@ RUN set -ex; \
 	\
 	mkdir -p ./plugins; \
 	for path in \
+	...
 		./data \
 		./logs \
 		./config \
